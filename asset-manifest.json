@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-age-calculator/static/css/main.f696f666.css",
+    "main.js": "/react-age-calculator/static/js/main.242f22f9.js",
+    "index.html": "/react-age-calculator/index.html",
+    "static/media/icon-arrow.svg": "/react-age-calculator/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.f696f666.css.map": "/react-age-calculator/static/css/main.f696f666.css.map",
+    "main.242f22f9.js.map": "/react-age-calculator/static/js/main.242f22f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f696f666.css",
+    "static/js/main.242f22f9.js"
+  ]
+}
